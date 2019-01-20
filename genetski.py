@@ -1,3 +1,4 @@
+#na osnovu istraživanja https://pdfs.semanticscholar.org/1ac2/f3d99e71a7bdc050dfbf9cbe66f5077fe49a.pdf?_ga=2.89616027.1008244444.1547985845-1442443940.1546552013
 import numpy as np
 from random import randint, uniform, choice, shuffle
 import matplotlib.pyplot as plt
